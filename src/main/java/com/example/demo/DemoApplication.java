@@ -12,7 +12,7 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	public String helloJava() {
-		return "Hello Java";
+		return "Hello Java lần 1";
 	}
 
 	public static void main(String[] args) {
